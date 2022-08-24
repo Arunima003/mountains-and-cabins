@@ -1,2 +1,2 @@
 # mountains-and-cabins
-random
+random and awesome
